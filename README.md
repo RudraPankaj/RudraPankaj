@@ -2,11 +2,6 @@
 
 - 🔭 I’m currently working on Web App Development using Laravel
 
-<ul>
-  <li style="color: red;">Red item</li>
-  <li style="color: green;">Green item</li>
-  <li style="color: blue;">Blue item</li>
-</ul>
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
