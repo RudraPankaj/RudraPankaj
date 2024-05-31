@@ -1,4 +1,4 @@
-## Hi there 👋 | I'm Pankaj
+## Hi there 👋, I'm Pankaj
 
 <!--
 **RudraPankaj/RudraPankaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
