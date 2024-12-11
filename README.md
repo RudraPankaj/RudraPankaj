@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Pankaj
 
-- 🔭 I’m currently working on Web App Development using Laravel
+- 🔭 I’m currently working on Web Development
 
 <!--
 - 🌱 I’m currently learning ...
