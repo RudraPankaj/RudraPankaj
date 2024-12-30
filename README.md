@@ -18,7 +18,7 @@ I am a software developer with a keen interest in web technologies and programmi
 
 ## Skills & Technologies
 
-html,css,js,cpp,java,php,mysql,laravel,react,docker,git
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,java,php,mysql,laravel,react,docker,git&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
