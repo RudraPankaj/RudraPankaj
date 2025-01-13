@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Pankaj
 
-- 🔭 I’m currently working on Web Development. I'm a passionate developer eager to create impactful solutions. Let's build something great together!
-
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +12,7 @@
 
 ## About Me
 
-I am a software developer with a keen interest in web technologies and programming. Although I'm currently based in an undisclosed location, I am continually expanding my skills through various projects and contributions. I enjoy tackling challenges and learning new technologies.
+- 🔭 I am a software developer with a keen interest in web technologies and programming. Although I'm currently based in an undisclosed location, I am continually expanding my skills through various projects and contributions. I enjoy tackling challenges and learning new technologies.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrapankaj&label=Profile%20views&color=0e75b6&style=flat" alt="rudrapankaj" /> </p>
 
