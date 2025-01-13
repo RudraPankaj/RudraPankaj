@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Pankaj
 
+- 🔭 I'm here on GitHub to explore and discover innovative concepts daily. My passion for software development fuels my desire to learn, experiment, and contribute to this dynamic and ever-evolving field continuously.
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
