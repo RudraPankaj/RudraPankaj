@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudrapankaj&show_icons=true&locale=en" alt="rudrapankaj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrapankaj&" alt="rudrapankaj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RudraPankaj" alt="Github Status" /></p>
