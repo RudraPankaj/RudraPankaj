@@ -25,7 +25,7 @@ I'm a passionate **software developer** with a keen interest in building things 
 
 I've created a portfolio to showcase my work as a web designer and developer. You can find detailed descriptions of my projects, services, and testimonials from clients.
 
-* <a href="https://rudrapankaj.github.io/MyPortfolio/" target="_blank">**Explore My Portfolio**</a>
+* <a target="_blank" href="https://rudrapankaj.github.io/MyPortfolio/">**Explore My Portfolio**</a>
 
 ---
 
